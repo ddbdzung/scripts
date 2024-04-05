@@ -12,3 +12,14 @@ How to run:
 ```
 bash make-ssh.sh
 ```
+
+2. clone-group-gitlab.sh
+<br />
+Run the script, it'll clone all the projects in a group from gitlab
+<br />
+
+How to run:
+
+```
+bash clone-group-gitlab.sh
+```
