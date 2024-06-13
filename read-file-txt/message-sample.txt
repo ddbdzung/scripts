@@ -1,0 +1,27 @@
+Anh Long ơi merge giúp em với ạ
+
+a:
+  - Repository: b, Issues: 3345
+    + https://gitlab.com/a/b/-/merge_requests/284/
+    + https://gitlab.com/a/b/-/merge_requests/285
+  - Repository: c, Issues: 3364
+    + https://gitlab.com/a/c/-/merge_requests/969
+    + https://gitlab.com/a/c/-/merge_requests/970
+  - Repository: d, Issues: 3346,3348,3349
+    + https://gitlab.com/a/d/-/merge_requests/1138
+    + https://gitlab.com/a/d/-/merge_requests/1139
+  - Repository: e, Issues: 3347
+    + https://gitlab.com/a/e/-/merge_requests/3260
+    + https://gitlab.com/a/e/-/merge_requests/3261
+
+-------------------------
+
+Anh Hiếu ơi merge giúp em với ạ
+
+x:
+  - Repository: y, Issues: 3313, Jiras: 221
+    + https://gitlab.com/x/y/-/merge_requests/415
+  - Repository: y, Issues: 3356, Jiras: 267
+    + https://gitlab.com/x/y/-/merge_requests/413
+
+-------------------------
