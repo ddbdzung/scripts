@@ -1,0 +1,7 @@
+Danh sách các repo sẽ golive:
+
+bos-client:
+  repairService
+bos-microservice:
+  repairService  (có script)
+
